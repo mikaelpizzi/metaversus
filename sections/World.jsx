@@ -68,6 +68,27 @@ const World = () => (
             alt='people'
             className='w-full h-full rounded-[24px]'
           />
+          <p 
+            className='text-white text-[16px] font-bold absolute bottom-[13.5%] left-[13.5%]'
+          >The Upside Down</p>
+          <img
+              src='people-06.png'
+              alt='people'
+              className='w-[24px] h-[24px] absolute bottom-[34.5%] left-[21.5%] z-100'
+            />
+          <img
+            src='people-05.png'
+            alt='people'
+            className='w-[24px] h-[24px] absolute bottom-[34.5%] left-[17.5%] z-0'
+          />
+          <img
+            src='people-04.png'
+            alt='people'
+            className='w-[24px] h-[24px] absolute bottom-[34.5%] left-[13.5%] z-2'
+          />
+          <p 
+            className='text-white text-[12px] font-light absolute bottom-[36%] left-[39%]'
+          >+ 264 has joined</p>
         </div>
         <div
           className='absolute lg:top-[9%] top-[20%] lg:left-[60%] left-[60%] sm:w-[180px] w-0 sm:h-[136px] h-0 p-[6px] rounded-[24px] sm:bg-[#5d6680] shadow-[0_0px_30px_1px_#691f8ea9]'
@@ -77,6 +98,27 @@ const World = () => (
             alt='people'
             className='w-full h-full rounded-[24px]'
           />
+          <p 
+            className='text-white text-[18px] font-bold absolute bottom-[13.5%] left-[13.5%]'
+          >Hawkins Labs</p>
+          <img
+              src='people-06.png'
+              alt='people'
+              className='w-[24px] h-[24px] absolute bottom-[34.5%] left-[21.5%] z-100'
+            />
+          <img
+            src='people-05.png'
+            alt='people'
+            className='w-[24px] h-[24px] absolute bottom-[34.5%] left-[17.5%] z-0'
+          />
+          <img
+            src='people-04.png'
+            alt='people'
+            className='w-[24px] h-[24px] absolute bottom-[34.5%] left-[13.5%] z-2'
+          />
+          <p 
+            className='text-white text-[12px] font-light absolute bottom-[36%] left-[39%]'
+          >+ 264 has joined</p>
         </div>
       </motion.div>
     </motion.div>
