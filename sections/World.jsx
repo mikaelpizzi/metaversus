@@ -34,16 +34,16 @@ const World = () => (
           className='w-full h-full object-contain'
         />
         <div
-          className='absolute lg:bottom-[25%] bottom-[35%] lg:right-[10%] right-[5%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
+          className='absolute lg:bottom-[25%] bottom-[35%] lg:right-[10%] right-[5%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680] shadow-[0_0px_30px_1px_#e77751]'
         >
           <img
             src='people-01.png'
             alt='people'
-            className='w-full h-full'
+            className='w-full h-full '
           />
         </div>
         <div
-          className='absolute lg:top-[25%] top-[35%] left-[10%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
+          className='absolute lg:top-[25%] top-[35%] left-[10%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680] shadow-[0_0px_30px_1px_#e5a1af]'
         >
           <img
             src='people-02.png'
@@ -52,7 +52,7 @@ const World = () => (
           />
         </div>
         <div
-          className='absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
+          className='absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680] shadow-[0_0px_30px_1px_#b8b2bb]'
         >
           <img
             src='people-03.png'
