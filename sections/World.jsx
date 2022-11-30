@@ -60,6 +60,24 @@ const World = () => (
             className='w-full h-full'
           />
         </div>
+        <div
+          className='absolute top-[40%] left-[20%] lg:w-[180px] w-0 lg:h-[136px] h-0 p-[6px] lg:rounded-[24px] lg:bg-[#5d6680] lg:shadow-[0_0px_30px_1px_#de5dcd]'
+        >
+          <img
+            src='meta-01.png'
+            alt='people'
+            className='w-full h-full rounded-[24px]'
+          />
+        </div>
+        <div
+          className='absolute lg:top-[9%] top-[20%] lg:left-[60%] left-[60%] sm:w-[180px] w-0 sm:h-[136px] h-0 p-[6px] rounded-[24px] sm:bg-[#5d6680] shadow-[0_0px_30px_1px_#691f8ea9]'
+        >
+          <img
+            src='meta-02.png'
+            alt='people'
+            className='w-full h-full rounded-[24px]'
+          />
+        </div>
       </motion.div>
     </motion.div>
   </section>
