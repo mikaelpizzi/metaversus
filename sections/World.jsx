@@ -31,10 +31,10 @@ const World = () => (
         <img
           src='/map.png'
           alt='map'
-          className='w-full h-full object-cover'
+          className='w-full h-full object-contain'
         />
         <div
-          className='absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
+          className='absolute lg:bottom-[25%] bottom-[35%] lg:right-[10%] right-[5%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
         >
           <img
             src='people-01.png'
@@ -43,7 +43,7 @@ const World = () => (
           />
         </div>
         <div
-          className='absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
+          className='absolute lg:top-[25%] top-[35%] left-[10%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'
         >
           <img
             src='people-02.png'
