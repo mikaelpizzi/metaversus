@@ -40,17 +40,18 @@ const Feedback = () => (
           alt="planet-09"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
-
-        <motion.div
-          variants={zoomIn(0.4, 1)}
-          className='lg:block hidden absolute -left-[10%] top-[3px]'
-        >
-          <img
-            src='/stamp.png'
-            alt="stamp"
-            className="w-[155px] h-[155px] object-contain"
-          />
-        </motion.div>
+        <a href='#explore'>
+          <motion.div
+            variants={zoomIn(0.4, 1)}
+            className='lg:block hidden absolute -left-[10%] top-[3px]'
+          >
+            <img
+              src='/stamp.png'
+              alt="stamp"
+              className="w-[155px] h-[155px] object-contain"
+            />
+          </motion.div>
+        </a>
       </motion.div>
     </motion.div>
   </section>
