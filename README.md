@@ -1,4 +1,4 @@
-# Amazing Next 13 Website With Framer Motion & Tailwind CSS
+# Next 13 Website With Framer Motion & Tailwind CSS
 
 ## [LIVE HERE](https://metaversus-mikaelpizzi.vercel.app/)
 
