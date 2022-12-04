@@ -9,8 +9,7 @@
 
 ### Technologies used:
 
-* React
 * NextJS 13
-* React Hooks
+* React
 * TailwindCSS
 * Framer Motion
